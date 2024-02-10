@@ -24,7 +24,7 @@ antisipasi suatu saat kalian mengalami error atau apapun itu kalian bisa restore
 di linux mint sudah tersedia aplikasi bawaan yang bisa kalian gunakan untuk backup file yaitu **TimeShift** 
 
 Cari **TimeShift** di system menu  
- <img src="{{site.baseurl | prepend: site.url}}assets/img/timeshift1.png" alt="timeshift" />
+ ![a](/assets/img/timeshift1.png)
  
 Pada menu wizard silahkan konfigurasi sesuaikan dengan perangkat anda :   
 ![a](/assets/img/timeshift2.png)  

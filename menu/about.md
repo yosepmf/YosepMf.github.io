@@ -1,19 +1,30 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Tentang Blog dan Penulis
 permalink: /about
 ---
+---
+Blog ini saya gunakan untuk menyimpan catatan penting yang berhubungan dengan IT seperti Sistem Operasi, Jaringan, Pemrograman , dll.
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+# Apa Alasan menulis Blog?
+---
+Alasan menulis blog ini adalah untuk mendokumentasikan semua catatan tentang topik IT, agar suatu saat nanti ketika butuh saya tinggal membaca semua catatan yang ada di blog ini. dan juga saya juga berharap catatan yang saya dokumentasikan ini bisa berguna juga untuk teman-teman pembaca bagi yang membutuhkan.
 
-### Getting Started
+# Blog nya dibuat pakai apa?
+---
+Blog ini dibuat menggunakan static site generator yang bernama Jekyll.
+untuk yang belum tau apa itu jekyll silahkan berkunjung ke web nya [jekyll](https://jekyllrb.com/)  
+Blog ini menggunakan Template Jekyll dari [Lagrange](https://github.com/LeNPaul/Lagrange)
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+# Apa yang ditulis di dalam Blog?
+---
+Topik yang ditulis kemungkinan besar tidak jauh tentang komputer, dan juga beberapa pengalaman saya dalam menggunakan Sistem Operasi Linux.
 
-### Example Content
+# Sistem Operasi yang digunakan?
+---
+DualBoot : Windows 10 & Linux Mint Cinnamont
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+# Device yang digunakan?
+---
+Lenovo Thinkpad L440
+Ram 8GB

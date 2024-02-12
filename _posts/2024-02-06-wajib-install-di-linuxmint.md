@@ -93,8 +93,8 @@ untuk yang terbiasa menggunakan font seperti times new roman, arial, dll. kalian
 untuk install font ini bisa lewat software manager lalu di kolom pencarian ketik **ttf-mscorefonts**  
 
 # 8. Improve System Performance  
-untuk kalian yang RAM nya lebih dari 16GB bisa ikuti cara ini untuk meningkatkan performa PC kalian. cara ini bekerja dengan cara mengurangi value swapp.  
-untuk mengubah value snapp, jalankan perintah ini di terminal :  
+untuk kalian yang RAM nya lebih dari 16GB bisa ikuti cara ini untuk meningkatkan performa PC kalian. cara ini bekerja dengan cara mengurangi value swap.  
+untuk mengubah value swap, jalankan perintah ini di terminal :  
 > $ sudo sysctl -w vm.swappiness=10  
 
 oke kurang lebih itulah hal-hal yang wajib kalian install dan konfigurasi setelah kalian menginstall linux mint.  

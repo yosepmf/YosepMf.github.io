@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Cara mengetahui versi Linux Mint dan informasi lainnya"
+title: "Cara mengetahui versi Linux Mint dan Distro linux lainnya"
 author: "Yosep Mohammad Firdaus"
 categories: journal
 tags: [Linux,Linux Mint,Ubuntu,Debian.]
-image: 
+image: 2024-02-27.png 
 ---
 
 mengetahui versi lengkap dari Distro linux yang kita gunakan

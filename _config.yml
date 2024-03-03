@@ -26,16 +26,7 @@ author:              'Yosep Mohammad Firdaus'
 
 # disqus
 disqus:
-  shortname: 'http://disqus.com/by/yosepmf'
-
-defaults:
-    -
-      scope:
-        path: ""
-        type: "posts"
-      values:
-        layout: "post"
-        comments: true
+  shortname: yosepmf
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

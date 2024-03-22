@@ -52,11 +52,15 @@ Setelah berhasil install Linux Mint langkah selanjutnya yang paling wajib tentun
 Cara Update Linux Mint  
 Pertama update repositori terlebih dahulu dengan perintah :
 
-> sudo apt-get update
+```shell
+sudo apt-get update
+```
 
 setelah itu lalu upgrade dengan perintah :
 
-> sudo apt-get upgrade
+```shell
+sudo apt-get upgrade
+```
 
 # 3. Install Driver
 
@@ -110,7 +114,9 @@ untuk install font ini bisa lewat software manager lalu di kolom pencarian ketik
 untuk kalian yang RAM nya lebih dari 16GB bisa ikuti cara ini untuk meningkatkan performa PC kalian. cara ini bekerja dengan cara mengurangi value swap.  
 untuk mengubah value swap, jalankan perintah ini di terminal :
 
-> $ sudo sysctl -w vm.swappiness=10
+```shell
+sudo sysctl -w vm.swappiness=10
+```
 
 oke kurang lebih itulah hal-hal yang wajib kalian install dan konfigurasi setelah kalian menginstall linux mint.  
 Terima kasih untuk yang sudah membaca Artikel ini.

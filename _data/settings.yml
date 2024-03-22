@@ -1,29 +1,30 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: true
-  disqus_shortname: 'http://disqus.com/by/yosepmf'
+  disqus_shortname: "http://disqus.com/by/yosepmf"
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-1'
+google-ID: "UA-112060364-1"
 
 menu:
-- {name: 'About',   url: 'about.html'}
-- {name: 'Blog', url: 'blog.html'}
+  - { name: "About", url: "about.html" }
+  - { name: "Blog", url: "blog.html" }
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github',     link: 'https://www.github.com/yosepmf'}
-- {icon: 'linkedin',   link: 'http://www.linkedin.com/in/YosepMf/'}
-- {icon: 'envelope',   link: 'mailto:yosepmfirdaus@gmail.com'}
+  - { icon: "github", link: "https://www.github.com/yosepmf" }
+  - { icon: "linkedin", link: "http://www.linkedin.com/in/YosepMf/" }
+  - { icon: "envelope", link: "mailto:yosepmfirdaus@gmail.com" }
+  - { icon: "instagram", link: "https://www.instagram.com/nahomeda" }
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: "Newer"
+  previous_page: "Older"
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: "Feel free to share!"
 
-related_posts: 'You may also enjoy:'
+related_posts: "You may also enjoy:"
 
-post_date_prefix: 'Written on'
+post_date_prefix: "Written on"

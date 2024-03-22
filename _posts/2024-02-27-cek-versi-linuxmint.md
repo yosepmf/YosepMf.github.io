@@ -19,7 +19,9 @@ versi distro saja.
 untuk mengetahui versi linux mint yang kalian gunakan,
 gunakan perintah berikut di terminal :
 
-> lsb_release -a
+```shell
+lsb_release -a
+```
 
 perintah ini akan menunjukan informasi detail distro linux yang
 kita gunakan dan juga versi distribusi distro linux yang digunakan.
@@ -30,7 +32,9 @@ kita gunakan dan juga versi distribusi distro linux yang digunakan.
 
 Alternatif lain kalian bisa menggunakan perintah ini di terminal:
 
-> cat /etc/lsb-release
+```shell
+cat /etc/lsb-release
+```
 
 output dari perintah di atas adalah sebagai berikut:
 
@@ -39,7 +43,9 @@ output dari perintah di atas adalah sebagai berikut:
 kalian bisa menggunakan perintah ini juga untuk mengetahui
 versi linux mint yang kalian gunakan:
 
-> cat /etc/issue
+```shell
+cat /etc/issue
+```
 
 maka output dari perintah di atas adalah sebagai berikut :
 
@@ -69,11 +75,15 @@ untuk menginstall neofetch silahkan langsung install sesuai dengan
 distro linux yang kalian pakai, sebagai contoh karna disini
 saya menggunakan linux mint. maka perintahnya sebagai berikut:
 
-> sudo apt install neofetch
+```shell
+sudo apt install neofetch
+```
 
 setelah terinstall kalian cukup jalankan neofetch di terminal:
 
-> neofetch
+```shell
+neofetch
+```
 
 tampilannya kurang lebih seperti ini :
 
